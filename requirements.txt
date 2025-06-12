@@ -1,0 +1,12 @@
+dbt-snowflake # This is kept at 1.7.1 in order to let dagsater work
+dagster-dbt
+dagster-webserver
+
+setuptools
+dagster
+streamlit
+SQLAlchemy
+PyYAML
+Markdown
+bs4
+beautifulsoup4
