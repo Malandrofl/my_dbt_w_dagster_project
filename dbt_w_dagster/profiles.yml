@@ -3,7 +3,7 @@ dbt_w_dagster:
     dev:
       account: QUCHJWK-GY32791
       database: AIRBNB
-      password: dbtPassword123
+      password: 
       role: transform
       schema: RAW
       threads: 1
@@ -16,7 +16,7 @@ dbtlearn:
     dev:
       account: QUCHJWK-GY32791
       database: AIRBNB
-      password: dbtPassword123
+      password: 
       role: transform
       schema: DEV
       threads: 1
